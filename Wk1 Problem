@@ -1,0 +1,7 @@
+#Coding problem 1: Locate Minimum
+import numpy as np
+data=np.random.random((10))
+data.min()#Select the first raw which is the minimum of the array
+
+#Coding problem 2: Sort
+data.sort()#Numpy arrays can be sorted by position using function sort in numpy. The sort method returns a sorted copy of the array rather than the original array
